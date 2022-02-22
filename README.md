@@ -15,7 +15,7 @@ I have Developed Multi Login System for Admin and User. One for backend(Admin Da
 - Product Add(with add,edit,update).
 - added slider feature (with edit,update).
 
-N.B. I have added Database file in project_database_mini_sales Folder.
+N.B. => I have added Database file in project_database_mini_sales Folder.
 
 #### Frontend Dashboard Features(User Dashboard):
 

@@ -33,3 +33,7 @@ N.B. => I have added Database file in project_database_mini_sales Folder.
 - Category wise product show
 - Add To Cart feature done 
 - Wishlist feature done.
+
+##Password
+For User Login => email : user@gmail.com | password: rabbi204
+For Admin Login => email : admin@gmail.com | password: rabbi204

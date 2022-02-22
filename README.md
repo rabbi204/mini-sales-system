@@ -1,7 +1,7 @@
 
 ## Mini Sales System
 
-This is a Mini Sales Web application by Laravel_8. This application is multilangual. In this project, used PHP, MySQL, Ajax, Laravel. 
+This is a Mini Sales Web application by Laravel_8. This application is multilangual(Bangla and English). In this project, used PHP, MySQL, Ajax, Laravel. 
 I have Developed Multi Login System for Admin and User. One for backend(Admin Dashboard) and another for Frontend(User Dashboard).
 
 #### Backend Dashboard Features(Admin Dashboard):

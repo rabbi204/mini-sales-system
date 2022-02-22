@@ -35,5 +35,7 @@ N.B. => I have added Database file in project_database_mini_sales Folder.
 - Wishlist feature done.
 
 ## Password
+- User Login Route [http://127.0.0.1:8000/login].
+- Admin Login Route [http://127.0.0.1:8000/admin/login].
 For User Login => email : user@gmail.com | password: rabbi204
 For Admin Login => email : admin@gmail.com | password: rabbi204
